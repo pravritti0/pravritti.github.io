@@ -18,6 +18,9 @@ Pravritti website
 
 
 # Authorization
+  - Translators
+  - Writers
+  - Reviewers
 
 
 # Miscelleneous
